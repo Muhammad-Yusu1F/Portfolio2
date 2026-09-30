@@ -121,7 +121,7 @@ a.sk{text-decoration:none;color:inherit}.sk small{overflow-wrap:anywhere}
 @media (prefers-reduced-motion:reduce){}
 
 /* ===== Rasmlar (avatar va asosiy karta) ===== */
-:root{--avp:url("../img/avatar.webp");--hp:url("../img/hero.webp")}
+:root{--avp:url("avatar.webp");--hp:url("hero.webp")}
 .av{position:relative;width:112px;height:112px;margin:0 auto 6px;border-radius:50%;padding:3px;isolation:isolate;
 background:linear-gradient(150deg,rgba(255,255,255,.6),rgba(255,255,255,.12));
 box-shadow:0 14px 32px rgba(20,20,90,.45),inset 0 1px 0 rgba(255,255,255,.6)}
